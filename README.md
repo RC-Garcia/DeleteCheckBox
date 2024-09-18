@@ -12,3 +12,6 @@ This macro will delete checkboxes in the selected cells. If a selected cell cont
     - Select the cells containing the checkboxes.
     - Press `Alt` + `F8` to open the "Macro" dialog.
     - Choose `DeleteCheckBoxes` and click "`Run`".
+  
+>[!NOTE]
+>This project is protected under [MIT License](LICENSE). :shipit:
